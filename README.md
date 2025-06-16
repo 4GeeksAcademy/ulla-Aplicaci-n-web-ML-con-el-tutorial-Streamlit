@@ -2,6 +2,12 @@
 
 This application predicts the risk of diabetes based on user-provided health indicators using a Random Forest model trained on the Pima Indians Diabetes dataset.
 
+## 🌐 Access the Web App
+
+You can access the deployed Streamlit application on Render at the following link:
+
+🔗 [https://diabetes-streamlit-app-qizc.onrender.com](https://diabetes-streamlit-app-qizc.onrender.com)
+
 ## 🚀 Features
 
 - Web interface built with **Streamlit**

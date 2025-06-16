@@ -3,6 +3,13 @@
 
 Esta aplicación web utiliza un modelo de Machine Learning para predecir el riesgo de diabetes en pacientes, a partir de variables clínicas como nivel de glucosa, índice de masa corporal, edad, entre otros.
 
+## 🌐 Accede a la aplicación web
+
+Puedes acceder a la aplicación web desplegada en Render a través del siguiente enlace:
+
+🔗 [https://diabetes-streamlit-app-qizc.onrender.com](https://diabetes-streamlit-app-qizc.onrender.com)
+
+
 ## 🧠 Modelo
 
 El modelo utilizado es un **Random Forest Classifier** entrenado previamente con el dataset de diabetes de Pima Indians, disponible en muchos repositorios públicos como Kaggle o UCI.
