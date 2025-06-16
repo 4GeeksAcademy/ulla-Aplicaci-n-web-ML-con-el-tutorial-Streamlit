@@ -4,7 +4,6 @@ import pickle
 import os
 
 # Configurar Streamlit para que escuche en el puerto correcto de Render
-st.set_option('server.port', 10000)
 st.set_option('server.enableCORS', False)
 st.set_option('server.enableXsrfProtection', False)
 
