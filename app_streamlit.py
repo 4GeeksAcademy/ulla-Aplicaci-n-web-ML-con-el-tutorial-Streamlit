@@ -3,10 +3,6 @@ import numpy as np
 import pickle
 import os
 
-# Configurar Streamlit para que escuche en el puerto correcto de Render
-st.set_option('server.enableCORS', False)
-st.set_option('server.enableXsrfProtection', False)
-
 # Cargar el modelo
 model_path = os.path.join("models", "random_forest_classifier.sav")
 with open(model_path, "rb") as f:
